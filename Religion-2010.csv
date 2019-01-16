@@ -1,13 +1,9 @@
-2010 - List of State Data
-
-For explanatory notes see the Methods page on our website: www.usreligioncensus.org
-
 State,Population,PopRank,Adherents,AdhRank,Congregations,ConRank,Adherents %,Adh% Rank,Congregations Per 10K People,Con Per 10K Rank
 Alabama,4779736,23,3007553,16,10514,11,62.9,3,22,6
 Alaska,710231,47,240833,49,1246,45,33.9,48,18,12
 Arizona,6392017,16,2379928,23,4673,30,37.2,43,7,44
 Arkansas,2915918,32,1614357,32,6697,20,55.4,13,23,2
-California,37253956,1,16765751,1,23558,2,45.0,31,6,50
+California,37253956,1,16765751,1,23558,2,45,31,6,50
 Colorado,5029196,22,1902282,28,4188,33,37.8,42,8,41
 Connecticut,3574097,29,1830862,29,2597,36,51.2,23,7,46
 Delaware,897934,45,374917,46,831,49,41.8,37,9,38
@@ -38,7 +34,7 @@ New Mexico,2059179,36,1031198,35,2447,37,50.1,28,12,27
 New York,19378102,3,9923512,3,14110,6,51.2,24,7,45
 North Carolina,9535483,10,4566313,10,15737,3,47.9,30,17,17
 North Dakota,672591,48,451456,44,1498,42,67.1,2,22,5
-Ohio,11536504,7,5071684,7,13606,7,44.0,34,12,29
+Ohio,11536504,7,5071684,7,13606,7,44,34,12,29
 Oklahoma,3751351,28,2226379,26,7057,18,59.3,5,19,8
 Oregon,3831074,27,1194793,34,4026,34,31.2,50,11,33
 Pennsylvania,12702379,6,6838440,6,15359,5,53.8,19,12,26
@@ -54,3 +50,7 @@ Washington,6724540,13,2328005,24,6114,22,34.6,46,9,40
 West Virginia,1852994,37,658313,39,4413,31,35.5,44,24,1
 Wisconsin,5686986,20,3047442,15,6078,23,53.6,20,11,32
 Wyoming,563626,51,223074,50,948,47,39.6,39,17,14
+,,,,,,,,,,
+2010 - List of State Data,,,,,,,,,,
+,,,,,,,,,,
+For explanatory notes see the Methods page on our website: www.usreligioncensus.org,,,,,,,,,,
