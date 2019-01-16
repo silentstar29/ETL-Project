@@ -1,4 +1,4 @@
-# ETL Project: Marriage&Religion
+# ETL Project: Marriage & Religion
 
 Team Members:
 Jose Lujan
@@ -23,8 +23,9 @@ Format: csv
 
 Data Storage:
 
-SQL
+MySQL
 
 Plan for Analysis:
 
 Merge state marriage rate data with religious census data across multiple years to evaluate potential correlations between these data sources and their progression across two different points in time (1990, 2000 and 2010).
+Data cleanup steps involved included dropping rows containing empty values, removing two states considered by the group to be outliers due to their abnormally high values. In addition, we renamed and reorganized columns to improve user readibility. Finally, the datasets were merged and two separate tables were created and loaded into MySQL. 
