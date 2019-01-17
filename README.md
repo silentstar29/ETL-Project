@@ -1,7 +1,7 @@
 # ETL Project: Marriage & Religion
 
 Team Members:
-Jose Lujan
+Jose Lujan,
 Aygul Matyakubova,
 Sameek Naik
 Richard Varos
